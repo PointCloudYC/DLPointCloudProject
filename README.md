@@ -46,3 +46,8 @@ other
 * [Tensorboard Tutorial: Graph Visualization with Example](https://www.guru99.com/tensorboard-tutorial.html)
 * [www.google.com](https://www.google.com/)  
 * [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+
+
+## how to update or contribute to our documents
+
+check [How to Contribute to Someone's GitHub Repository](http://www.youtube.com/watch?v=yr6IzOGoMsQ)
