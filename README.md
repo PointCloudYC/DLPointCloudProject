@@ -7,9 +7,9 @@
 
 ### 3 Feb~3 Mar
 
-- labeling WRII dataset; download from the link: [WRII](https://hkustconnect-my.sharepoint.com/:f:/g/personal/bwangbb_connect_ust_hk/ElLhGqoZ_05PgtmtXhasLKMBKj6c9WDjAd--ZbJhxVG63w?e=Tfo7LS).
+- (Daniel and Ian) labeling WRII dataset; download from the link: [WRII](https://hkustconnect-my.sharepoint.com/:f:/g/personal/bwangbb_connect_ust_hk/ElLhGqoZ_05PgtmtXhasLKMBKj6c9WDjAd--ZbJhxVG63w?e=Tfo7LS).
 
-- use HKUST hpc2 to train the model
+- (Ian) use HKUST hpc2 to train the model
   - apply hpc2 account; Chao already send the application template.
 
   - set the DL working env, mainly install tensorflow-gpu, other common scientific packages;check chao's `MEPNet v0.1 and HPC2.pptx` under resources/ppt folder.
@@ -18,7 +18,7 @@
 
   - run the model with 4 GPUs; need modify pointnet code to enable the model run with 4 GPUs, one example is * [Tensorflow code for training different architectures on ImageNet dataset + Multi-GPU support + Transfer Learning support](https://github.com/arashno/tensorflow_multigpu_imagenet).
 
-- visulaization and preliminary analysis
+- (Daniel and Ian) visulaization and preliminary analysis
    - visualization using tensorboard, e.g.: the loss, accuracy graph , the code is already in the pointnet code. check the below first 2 books which illustrate in detail on how to use tensorboard.
    - draw the confusion matrix and Precision-Recall or ROC curve.
    - draw some conclusion based on yr experiment results
